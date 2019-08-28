@@ -3445,10 +3445,10 @@ fragment-cache@^0.2.1:
   dependencies:
     map-cache "^0.2.2"
 
-framer-motion@^1.6.3:
-  version "1.6.3"
-  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-1.6.3.tgz#85307951ca420aceb8edc0852f5bf1e0513f9f77"
-  integrity sha512-1iwnEp/JxrGM+w1AJTIqjnLb35pCqWICaoDyFbkVKXWWKHs+pmSmflp9L+hy+E/1TSX0DKwB/9lYbqG9w7BB7A==
+framer-motion@^1.6.5:
+  version "1.6.5"
+  resolved "https://registry.yarnpkg.com/framer-motion/-/framer-motion-1.6.5.tgz#bb496b68f2f850506dbd08da27fa4a200f9c2b5d"
+  integrity sha512-Plg25ywwVI6bu2M/9Q9pIljudMRNDnlXF+wYOvZomxqzujqAL+dnMv9CxammZaDje88qMDULzuySFXxp2fcC0g==
   dependencies:
     "@popmotion/easing" "^1.0.2"
     "@popmotion/popcorn" "^0.4.2"
@@ -3456,13 +3456,13 @@ framer-motion@^1.6.3:
     hey-listen "^1.0.8"
     popmotion "9.0.0-beta-8"
     style-value-types "^3.1.6"
-    stylefire "^6.0.9"
+    stylefire "^6.0.10"
     tslib "^1.10.0"
 
-framer@^1.0.18:
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/framer/-/framer-1.0.18.tgz#45af0901611db34094e895ebdc5e07457961f7d6"
-  integrity sha512-t9MJbXclUxSlMz670UIMrPxQhJukiPGGE3HMwWd+BILpst4QLy7b3X6QgEGrv/80hSwYBC0+NcnOyqPWpMagng==
+framer@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/framer/-/framer-1.1.0.tgz#c7dc998c88f59c097575b3123978322f329aebc3"
+  integrity sha512-OtiDnGb/xxqM5kMLPHGo/NPnpKM3iPnSfTk4QSHZuCu0BmGydLDwHxMib5y2QKsq74qa8vseaM6cl39abwoqCQ==
 
 framesync@^4.0.0, framesync@^4.0.1, framesync@^4.0.4:
   version "4.0.4"
@@ -7282,10 +7282,10 @@ styled-components@^4.3.2:
     stylis-rule-sheet "^0.0.10"
     supports-color "^5.5.0"
 
-stylefire@^6.0.9:
-  version "6.0.9"
-  resolved "https://registry.yarnpkg.com/stylefire/-/stylefire-6.0.9.tgz#4c9ab1d2a68e99a2e5a83e11333495824e494632"
-  integrity sha512-HGpTvXAtXbQplESMSvhzFsBtpLNIqMf9hZrdsfoZrJCD0RrF7wyRDc1mhYJym5EL2KQKFAEz+AH6YPOv++VxOQ==
+stylefire@^6.0.10:
+  version "6.0.10"
+  resolved "https://registry.yarnpkg.com/stylefire/-/stylefire-6.0.10.tgz#1100c63cf01b922f0db92e38a46297f3f1c2663d"
+  integrity sha512-SAJnUk4L9EKt/WSliztk1iZCzcNOJDR69xO8gblRjQwjybgMWONsY7KpcMBt65xU1UZaiyPDK5CoLf9wXLJldQ==
   dependencies:
     "@popmotion/popcorn" "^0.4.2"
     framesync "^4.0.0"
